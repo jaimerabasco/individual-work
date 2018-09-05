@@ -1,3 +1,4 @@
 # Exercise 2.2 Github Campus Advisor
 
-* Creando readme
+* Create readme
+* Modify readme
